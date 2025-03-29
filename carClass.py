@@ -34,10 +34,3 @@ class Car:
 
     def getZeroSixty(self):
         return self.zeroSixty
-
-
-
-benz = Car()
-# benz.whatCar()
-benz.setModel("Mercedez AMG GLE 63s")
-print(benz.getModel())
